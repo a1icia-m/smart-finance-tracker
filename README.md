@@ -1,6 +1,6 @@
 
 ## Work in Progress
-🚧 Currently developing a smart AI-powered finance tracker platform to learn and develop my full-stack engineering skills! Leveraging Next.js, React, Tailwind CSS, Shadcn UI, and Gemini AI to build an intelligent budgeting interface with persistent state, modular components, and interactive UI. Focused on creating scalable, user-centric features using clean architecture and learn the best practices in component-based design.
+🚧 Currently developing a smart AI-powered finance tracker platform to learn and develop my full-stack engineering and Javscript skills! Leveraging Next.js, React, Tailwind CSS, Shadcn UI, and Gemini AI to build an intelligent budgeting interface with persistent state, modular components, and interactive UI. Focused on creating scalable, user-centric features using clean architecture and learn the best practices in component-based design.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

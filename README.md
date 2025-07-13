@@ -4,8 +4,10 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Current landing page with example data and user authentication features:
+<img width="781" height="687" alt="image" src="https://github.com/user-attachments/assets/ba78bb26-3ed0-4aaf-a7aa-2dc67749a467" />
+<img width="597" height="758" alt="image" src="https://github.com/user-attachments/assets/8afca14d-6034-427c-9f25-0dd715c62fab" />
 
-<img width="548" height="268" alt="image" src="https://github.com/user-attachments/assets/3905ce20-7225-4fa5-a785-19b6f70ac6d9" />
 
 
 ## Getting Started
